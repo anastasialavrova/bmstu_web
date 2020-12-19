@@ -23,3 +23,7 @@ BMSTU web development course (2020)
 
 ## ER-диаграмма сущностей системы:
 ![alt text](https://github.com/anastasialavrova/bmstu_web/blob/main/lab_1/doc/er_diagram.png)
+
+
+## Создание макета в Figma:
+https://www.figma.com/file/aWF5lOff2EABfSTd3xbjV2/Untitled
